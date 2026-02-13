@@ -195,6 +195,8 @@ export default async function LocaleLayout({
     return (
         <html lang={locale}>
             <head>
+                {/* Viewport for responsive design */}
+                <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes" />
                 {/* Structured Data */}
                 <script
                     type="application/ld+json"
