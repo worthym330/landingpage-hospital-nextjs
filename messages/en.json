@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "badge": "Advanced Medical Imaging",
+    "title": {
+      "line1": "Precision",
+      "line2": "Diagnostics",
+      "line3": "for Better Health"
+    },
+    "description": "State-of-the-art diagnostic imaging with cutting-edge technology. Your health deserves the highest level of accuracy and care.",
+    "bookAppointment": "Book Appointment",
+    "viewServices": "View Services",
+    "rating": "4.9 Rating",
+    "nablAccredited": "NABL Accredited",
+    "quickReports": "Quick Reports",
+    "certified": "Certified",
+    "nablLab": "NABL Lab",
+    "service247": "24/7 Service"
+  },
+  "stats": {
+    "yearsExperience": "Years Experience",
+    "happyPatients": "Happy Patients",
+    "expertDoctors": "Expert Doctors",
+    "accuracy": "% Accuracy"
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Comprehensive Diagnostic Solutions",
+    "description": "Advanced imaging services powered by state-of-the-art technology and expert professionals",
+    "xray": {
+      "title": "Digital X-Ray",
+      "description": "High-quality digital X-Ray imaging for precise diagnosis of bones, chest, and other conditions with minimal radiation exposure."
+    },
+    "ct": {
+      "title": "CT Scan",
+      "description": "Advanced multi-slice CT scanning for detailed cross-sectional imaging with fast scan times and superior image quality."
+    },
+    "mri": {
+      "title": "MRI",
+      "description": "High-field MRI for exceptional soft tissue and neurological imaging with patient comfort features."
+    },
+    "ultrasound": {
+      "title": "Ultrasound",
+      "description": "Safe and effective ultrasound imaging for obstetrics, abdomen, and various diagnostic needs."
+    },
+    "ecg": {
+      "title": "ECG",
+      "description": "Comprehensive electrocardiography services for accurate heart health assessment and monitoring."
+    },
+    "pathology": {
+      "title": "Pathology Lab",
+      "description": "Complete pathology and laboratory testing services with quick turnaround and accurate results."
+    },
+    "bookNow": "Book Now"
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Trusted Healthcare Partner Since 2009",
+    "description1": "Manmohan Imaging Center has been at the forefront of diagnostic imaging services for over 15 years. We combine cutting-edge technology with compassionate care to provide accurate and timely diagnoses.",
+    "description2": "Our team of experienced radiologists and technicians work together to ensure every patient receives personalized attention and the highest quality service.",
+    "expertTeam": "Expert Team",
+    "expertTeamDesc": "Qualified professionals",
+    "modernEquipment": "Modern Equipment",
+    "modernEquipmentDesc": "Latest technology",
+    "quickReports": "Quick Reports",
+    "quickReportsDesc": "Fast & accurate results",
+    "learnMore": "Learn More",
+    "accuracyRate": "Accuracy Rate"
+  },
+  "whyChoose": {
+    "title": "Why Choose Manmohan Imaging Center?",
+    "description": "We are committed to excellence in diagnostic imaging and patient care",
+    "nablAccredited": "NABL Accredited",
+    "nablAccreditedDesc": "Certified quality standards",
+    "affordablePricing": "Affordable Pricing",
+    "affordablePricingDesc": "Competitive rates for all",
+    "service247": "24/7 Service",
+    "service247Desc": "Always available for you",
+    "patientCare": "Patient Care",
+    "patientCareDesc": "Compassionate approach"
+  },
+  "contact": {
+    "badge": "Contact Us",
+    "title": "Get In Touch",
+    "description": "Book your appointment or reach out with any questions. We're here to help!",
+    "contactInfo": "Contact Information",
+    "address": "Address",
+    "addressDetails": "Sharda Apt., Gaurai Pada Naka, Santosh Bhavan, Nallasopara (East), Tal. Vasai, Dist. Palghar",
+    "phone": "Phone",
+    "workingHours": "Working Hours",
+    "workingHoursDetails": "Monday - Saturday: 9:00 AM - 8:00 PM\nSunday: Closed",
+    "mapIntegration": "Map integration available",
+    "bookAppointment": "Book Appointment",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "phoneNumber": "Phone Number",
+    "phoneNumberPlaceholder": "Enter your phone number",
+    "serviceRequired": "Service Required",
+    "selectService": "Select a service",
+    "message": "Message (Optional)",
+    "messagePlaceholder": "Any additional information",
+    "chatWithUs": "Chat with us!",
+    "successMessage": "Thank you for contacting us! We will get back to you shortly."
+  },
+  "footer": {
+    "description": "Your trusted partner in diagnostic imaging. Providing accurate results with compassion and care for over 15 years.",
+    "quickLinks": "Quick Links",
+    "copyright": "© 2024 Manmohan Imaging Center. All rights reserved."
+  }
+}
