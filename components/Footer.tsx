@@ -85,7 +85,7 @@ export default function Footer() {
                         <h4 className="font-serif text-lg font-bold mb-6">{t('contact.contactInfo')}</h4>
                         <ul className="space-y-3 text-gray-400">
                             <li>Sharda Apt., Gaurai Pada Naka, Santosh Bhavan, Nallasopara (East)</li>
-                            <li>+91 XXXXXXXXXX</li>
+                            <li>+91 87799 55226</li>
                             <li>Mon-Sat: 9AM - 8PM</li>
                         </ul>
                     </div>

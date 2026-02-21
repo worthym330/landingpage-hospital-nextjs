@@ -144,7 +144,7 @@ export default async function LocaleLayout({
             longitude: 72.8236
         },
         url: 'https://manmohanimaging.com',
-        telephone: '+91-XXXXXXXXXX', // Replace with actual phone
+        telephone: '+91-87799 55226', // Replace with actual phone
         priceRange: '$$',
         openingHoursSpecification: [
             {
