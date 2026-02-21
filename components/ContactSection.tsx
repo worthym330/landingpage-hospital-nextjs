@@ -102,7 +102,7 @@ export default function ContactSection() {
                                     </div>
                                     <div>
                                         <h4 className="font-semibold text-gray-900 mb-1">{t('phone')}</h4>
-                                        <p className="text-gray-600">{t('phoneNumber')}</p>
+                                        <p className="text-gray-600">{t('mobileNumber')}</p>
                                     </div>
                                 </div>
                                 <div className="flex items-start gap-4">
@@ -198,8 +198,8 @@ export default function ContactSection() {
                             {submitStatus.type && (
                                 <div
                                     className={`p-4 rounded-xl ${submitStatus.type === 'success'
-                                            ? 'bg-green-50 border border-green-200 text-green-800'
-                                            : 'bg-red-50 border border-red-200 text-red-800'
+                                        ? 'bg-green-50 border border-green-200 text-green-800'
+                                        : 'bg-red-50 border border-red-200 text-red-800'
                                         }`}
                                 >
                                     <div className="flex items-center gap-2">
@@ -229,8 +229,8 @@ export default function ContactSection() {
                                 type="submit"
                                 disabled={isSubmitting}
                                 className={`w-full px-8 py-4 bg-primary text-white font-semibold rounded-xl transition-all duration-300 shadow-lg flex items-center justify-center gap-2 ${isSubmitting
-                                        ? 'opacity-70 cursor-not-allowed'
-                                        : 'hover:bg-primary-dark hover:shadow-xl hover:-translate-y-1'
+                                    ? 'opacity-70 cursor-not-allowed'
+                                    : 'hover:bg-primary-dark hover:shadow-xl hover:-translate-y-1'
                                     }`}
                             >
                                 {isSubmitting ? (

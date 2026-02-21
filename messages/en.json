@@ -100,6 +100,7 @@
     "fullName": "Full Name",
     "fullNamePlaceholder": "Enter your full name",
     "phoneNumber": "Phone Number",
+    "mobileNumber": "+91 87799 55226",
     "phoneNumberPlaceholder": "Enter your phone number",
     "serviceRequired": "Service Required",
     "selectService": "Select a service",
